@@ -1,0 +1,13 @@
+.auth-form-header {
+    margin-bottom: 15px;
+    color: #333;
+    text-align: center;
+    text-shadow: none;
+    background-color: initial;
+    border: 0;
+}
+ .auth-form-header h1 {
+    font-size: 44px;
+    font-weight: 300;
+    letter-spacing: -.5px;
+}
